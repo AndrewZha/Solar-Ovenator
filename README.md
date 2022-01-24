@@ -1,2 +1,4 @@
 # Solar-Ovenator
 TSA State Conference 4th Placement Project: The Solar Ovenator
+
+This project was my TSA team's design as a solution for the "Engineering Design" event at the 2020 TSA State Conference. We were given a prompt to design and prototype an engineering solution to solve a lack basic needs in the world. We chose heat and water as our main focus. Our design was to use the focused radiation of sunlight as a heat source for an oven, and we would provide the oven with different features such as built-in distillation, adjustable lenses, and a cheap, compact design. All of the project was created using laser-cut acrylic and wood, and all of the design was drawn using AutoDesk AutoCAD. I contributed by being the lead CAD Designer and Manufacturing Operator, and by suggesting all the features mentioned in the brainstorming process. I also created the powerpoint for our interview, which recieved the highest score in the competition. 
